@@ -1,0 +1,25 @@
+h1{
+    background-color: black;
+    opacity: 0.6;
+    text-align: center;
+    font-style: oblique;
+    font-family: cursive;
+    font-size: 45PX;
+    color: rgb(249, 71, 71);
+}
+p{
+    font-style: oblique;
+    font-family: cursive;
+    font-size: 45PX;
+    color: rgb(239, 62, 127);
+}
+body{
+    background-image: url('./5.jpg');
+}
+video{
+    width: 750px;
+    height: 600px;
+}
+.hi{
+    text-align: right;
+}
